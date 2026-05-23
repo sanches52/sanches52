@@ -4,7 +4,7 @@ Data Consultant and future Neuroscientist, bridging the gap between exact scienc
 
 ---
 
-### 🔭 Current Focus
+### > Current Focus
 * **Mental Health Analytics (OASM):** Developing my MBA Capstone Project (USP) — a public health dashboard built with Databricks and Power BI to analyze mental health trends (anxiety and depression) in Brazil. This project is my active bridge between Data Tech and Psychology.
 * **Career Transition:** Actively pursuing academic and professional pathways into Psychology and Neuroscience, aiming to integrate data modeling with human cognition and behavioral research.
 * **Data Strategy:** Driving executive insights and advanced data modeling as a Data Consultant at NTT Data.
