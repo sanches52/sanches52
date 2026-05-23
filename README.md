@@ -10,8 +10,8 @@ Data Consultant and future Neuroscientist, bridging the gap between exact scienc
 * **Data Strategy:** Driving executive insights and advanced data modeling as a Data Consultant at NTT Data.
 
 ### 🌱 Technical & Cognitive Toolbox
-* **Cloud & Big Data:** Databricks | PySpark | Spark SQL | Delta Lake
-* **BI & Dataviz:** Power BI (Deployment Pipelines, CI/CD, Data Governance)
+* **Cloud & Big Data:** Databricks | Microsoft Azure | PySpark | Spark SQL
+* **BI & Dataviz:** Power BI | Tableau
 * **Core Skills:** Data Analysis | Python | SQL | Behavioral Data (upcoming)
 * **Previous Background:** Electrical Engineering | Automation & Control | IoT (Buddycare Project)
 
