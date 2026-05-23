@@ -1,26 +1,28 @@
 # Hi, I'm Felipe Sanches 👋
 
-Data Consultant transitioning to Data Leadership, with a solid foundation in Engineering and Analytics. I specialize in transforming complex datasets into actionable business intelligence and scalable data models.
+Data Consultant and future Neuroscientist, bridging the gap between exact sciences and human behavior. With a solid foundation in Engineering and Data Analytics, I am currently transitioning my career towards Psychology and Neuroscience to leverage data in understanding and improving mental health.
 
 ---
 
 ### 🔭 Current Focus
-* **Data Strategy & Analytics:** Driving executive insights, data governance, and advanced data modeling as a Data Consultant at NTT Data.
-* **OASM (Observatório Analítico de Saúde Mental):** Currently developing my MBA Capstone Project (USP). It is an interactive public health dashboard built with Databricks and Power BI, leveraging geo-spatial data to analyze mental health trends (such as anxiety and depression) pre and post-COVID-19 in Brazil.
+* **Mental Health Analytics (OASM):** Developing my MBA Capstone Project (USP) — a public health dashboard built with Databricks and Power BI to analyze mental health trends (anxiety and depression) in Brazil. This project is my active bridge between Data Tech and Psychology.
+* **Career Transition:** Actively pursuing academic and professional pathways into Psychology and Neuroscience, aiming to integrate data modeling with human cognition and behavioral research.
+* **Data Strategy:** Driving executive insights and advanced data modeling as a Data Consultant at NTT Data.
 
-### 🌱 Technical Toolbox
+### 🌱 Technical & Cognitive Toolbox
 * **Cloud & Big Data:** Databricks | PySpark | Spark SQL | Delta Lake
 * **BI & Dataviz:** Power BI (Deployment Pipelines, CI/CD, Data Governance)
-* **Languages & Core:** Python | SQL | Data Analysis
+* **Core Skills:** Data Analysis | Python | SQL | Behavioral Data (upcoming)
 * **Previous Background:** Electrical Engineering | Automation & Control | IoT (Buddycare Project)
 
-### 📊 Database & Analytics Journey
-* **Data Engineering & Preparation:** Building robust data pipelines, optimizing queries, and dealing with complex unstructured data using Python and Spark.
-* **Business Acumen:** Bridging the gap between technical execution and business value by translating raw data into strategic executive reports.
+### 🧠 My Journey: From Circuits to the Brain
+* **Past:** Automated physical systems and built IoT devices with a strong Electrical Engineering background.
+* **Present:** Transforming complex datasets into business intelligence and public health solutions (Data Consulting).
+* **Future:** Applying advanced data analytics and technical frameworks to psychological research and cognitive neuroscience.
 
 ---
 
-### 🤝 Connect with me
+### 🤝 Let's connect!
 * **LinkedIn:** https://www.linkedin.com/in/felipe-sanches-087252b9
 * **Email:** felipesanches52@gmail.com
 
