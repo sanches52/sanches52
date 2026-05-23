@@ -9,20 +9,20 @@ Data Consultant and future Neuroscientist, bridging the gap between exact scienc
 * **Career Transition:** Actively pursuing academic and professional pathways into Psychology and Neuroscience, aiming to integrate data modeling with human cognition and behavioral research.
 * **Data Strategy:** Driving executive insights and advanced data modeling as a Data Consultant at NTT Data.
 
-### 🌱 Technical & Cognitive Toolbox
+### > Technical & Cognitive Toolbox
 * **Cloud & Big Data:** Databricks | Microsoft Azure | PySpark | Spark SQL
 * **BI & Dataviz:** Power BI | Tableau
 * **Core Skills:** Data Analysis | Python | SQL | Behavioral Data (upcoming)
 * **Previous Background:** Electrical Engineering | Automation & Control | IoT (Buddycare Project)
 
-### 🧠 My Journey: From Circuits to the Brain
+### > My Journey: From Circuits to the Brain
 * **Past:** Automated physical systems and built IoT devices with a strong Electrical Engineering background.
 * **Present:** Transforming complex datasets into business intelligence and public health solutions (Data Consulting).
 * **Future:** Applying advanced data analytics and technical frameworks to psychological research and cognitive neuroscience.
 
 ---
 
-### 🤝 Let's connect!
+### Let's connect!
 * **LinkedIn:** https://www.linkedin.com/in/felipe-sanches-087252b9
 * **Email:** felipesanches52@gmail.com
 
